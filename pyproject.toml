@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 python-tool-competition-2024 = {git = "git@github.com:ThunderKey/python-tool-competition-2024.git"}
+klara = "^0.6.3"
 
 
 [build-system]
